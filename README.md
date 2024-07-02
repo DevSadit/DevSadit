@@ -2,8 +2,7 @@
 <br/>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200"/>
-  
+ 
   <div id="badges">
   <a href="https://www.linkedin.com/in/shahmiraj-ehesan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
