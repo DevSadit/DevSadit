@@ -7,7 +7,7 @@
     </h1>
 ---
 
-### :man_technologist: About Me :
+### <h1 align="center">About Me:</h1>
 I am a juniour frontend Web Developer from Bangladesh<img src="https://media.giphy.com/media/d68IK2DovJ2MI2UTjJ/giphy.gif" width="20">.
 - 🌱 I'm continually acquiring new technical knowledge and enhancing my skills.
 - 💬 Ask me about ReactJs, javascript, and ...more.
