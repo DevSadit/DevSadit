@@ -1,16 +1,6 @@
 <h2>Hey, Hello I'm Ehesan Sadit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 <br/>
 
-<div id="header" align="center">
- 
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/shahmiraj-ehesan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
-  </a>
-    
-</div>
- 
-</div>
 
 ---
 
