@@ -2,15 +2,10 @@
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/fahim-montasir/">
+  <a href="https://www.linkedin.com/in/shahmiraj-ehesan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
-    <a href="https://fahimmontasir.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white" alt="Medium Badge" width="100"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCXp2SsR9f0THsQXM76Xik0w">
-    <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge" width="100"/>
-  </a>
+    
 </div>
  <img src="https://komarev.com/ghpvc/?username=FahimMontasir&style=flat&color=blue" alt="Fahim's profile view"/>
 </div>
