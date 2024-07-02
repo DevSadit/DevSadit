@@ -16,8 +16,9 @@
 I am a juniour frontend Web Developer from Bangladesh<img src="https://media.giphy.com/media/d68IK2DovJ2MI2UTjJ/giphy.gif" width="20">.
 - 🌱 I'm continually acquiring [new technical knowledge and enhancing my skills](https://github.com/FahimMontasir/cse-fundamentals).
 - 💬 Ask me about ReactJs, javascript, and ...more.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([)](https://www.linkedin.com/in/shahmiraj-ehesan)
-- 😄 Pronouns: fa-him mon-ta-si-r
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahmiraj-ehesan)
+- 😄 Pronouns: shah-miraj-ehe-san
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
