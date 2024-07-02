@@ -31,8 +31,9 @@ I am a juniour frontend Web Developer from Bangladesh<img src="https://media.gip
 
 <h1 align="center">Github Stats</h1>
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSadit&show_icons=true&layout=compact&theme=tokyonight" alt="DevSadit" />
-  <img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api?username=DevSadit&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSadit&show_icons=true&layout=compact&theme=tokyonight" alt="DevSadit" /> </p>
+<p align="center">
+   <img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api?username=DevSadit&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
 <br>
