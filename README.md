@@ -38,10 +38,10 @@
     <a href="https://www.linkedin.com/in/shahmiraj-ehesan" target="_blank">
         <img src="https://img.shields.io/badge/-Ehesan_Sadit-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
     </a>
-    <a href="https://github.com/DevSadit" target="_blank">
-        <img src="https://img.shields.io/badge/-DevSadit-333333?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="https://sh-ehesan.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
     </a>
-    <a href="https://facebook.com/your.username" target="_blank">
+    <a href="https://www.facebook.com/shahmiraj.ehesan" target="_blank">
         <img src="https://img.shields.io/badge/-Ehesan_Sadit-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
     <a href="mailto:your.email@gmail.com">
