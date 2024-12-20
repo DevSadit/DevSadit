@@ -12,47 +12,42 @@
     <img src="https://komarev.com/ghpvc/?username=DevSadit&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
-<h2 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-    <b>About Me</b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-</h2>
+<!-- About Section -->
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+    A passionate Frontend Developer from Bangladesh, focusing on creating user-friendly web experiences.
+</p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B24392&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;React+Enthusiast;Passionate+Learner" alt="Typing SVG" />
-</div>
-
-<div align="center">
-    <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-    
-    <div align="left" width="400">
+    <details>
+        <summary><b>👨‍💻 More about me</b></summary>
         <br/>
-        <p>🌍 Frontend Developer from Bangladesh <img src="https://media.giphy.com/media/d68IK2DovJ2MI2UTjJ/giphy.gif" width="20"></p>
-        <p>💼 Specialized in Javascript & React.js</p>
-        <p>🚀 Currently exploring <b>Next.js</b></p>
-        <p>🌱 Continuously learning and improving skills</p>
-        <p>💬 Ask me about React.js, JavaScript, and web development</p>
-        <p>😄 Pronouns: shah-miraj-ehe-san</p>
         
-        <h3>Connect with me:</h3>
-        <a href="https://www.linkedin.com/in/shahmiraj-ehesan">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <a href="mailto:your.email@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-        <a href="https://github.com/DevSadit">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-    </div>
+- 💼 Currently working with **React.js** and exploring **Next.js**
+- 🌱 Always learning and improving my skills
+- 💬 Ask me about **React.js**, **JavaScript**, and web development
+- 😄 Pronouns: **ehe-san**
+    </details>
 </div>
+
+<!-- Connect Section -->
+<h3 align="center">🤝 Connect with me</h3>
 
 <div align="center">
-    <h3>⚡ Fun fact</h3>
-    <p>The best code is the one that works in production! 😄</p>
+    <a href="https://www.linkedin.com/in/shahmiraj-ehesan" target="_blank">
+        <img src="https://img.shields.io/badge/-Ehesan_Sadit-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/DevSadit" target="_blank">
+        <img src="https://img.shields.io/badge/-DevSadit-333333?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://facebook.com/your.username" target="_blank">
+        <img src="https://img.shields.io/badge/-Ehesan_Sadit-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    </a>
+    <a href="mailto:your.email@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
 </div>
-
-<hr>
 
 <h2 align="center">🛠️ Languages and Technologies</h2>
 
