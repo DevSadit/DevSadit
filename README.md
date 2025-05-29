@@ -35,16 +35,16 @@
 <h3 align="center">🤝 Connect with me</h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/shahmiraj-ehesan" target="_blank">
+    <a href="https://www.linkedin.com/in/shah-ehesan/" target="_blank">
         <img src="https://img.shields.io/badge/-Ehesan_Sadit-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
     </a>
-    <a href="https://sh-ehesan.netlify.app/" target="_blank">
+    <a href="https://portfolio-beta-weld-50.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
     </a>
     <a href="https://www.facebook.com/shahmiraj.ehesan" target="_blank">
         <img src="https://img.shields.io/badge/-Ehesan_Sadit-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
-    <a href="mailto:your.email@gmail.com">
+    <a href="mailto:dev.ehesan@gmail.com">
         <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
