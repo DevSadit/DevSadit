@@ -35,7 +35,7 @@
 <h3 align="center">🤝 Connect with me</h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/shah-ehesan/" target="_blank">
+    <a href="https://www.linkedin.com/in/shehesan/" target="_blank">
         <img src="https://img.shields.io/badge/-Ehesan_Sadit-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
     </a>
     <a href="https://portfolio-beta-weld-50.vercel.app/" target="_blank">
@@ -63,10 +63,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-</div>
-
-<div align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSadit&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
