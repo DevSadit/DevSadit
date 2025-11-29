@@ -63,11 +63,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevSadit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSadit&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
