@@ -31,11 +31,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <div align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=DevSadit&theme=tokyonight&hide_border=true&border_radius=15"
-    alt="GitHub Streak"
-  />
+![GitHub Streak](https://streak-stats.demolab.com?user=DevDadit&theme=dark)
 </div>
 <br/>
 <!-- About Me -->
