@@ -16,17 +16,7 @@
   </a>
 </h1>
 
-<!-- Profile Views -->
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=DevSadit&style=for-the-badge&color=blue"
-    alt="Profile Views"
-  />
-</div>
-
 <br/>
-
-
 
 <!-- GitHub Streak -->
 <h2 align="center">🔥 GitHub Streak</h2>
