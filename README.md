@@ -18,15 +18,12 @@
 
 <br/>
 
-<!-- Github status -->
-## Github Status
-![](https://github-readme-stats.vercel.app/api?username=DevSadit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
+<h2 align="center">Github Streak</h2>
+</br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=DevSadit&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSadit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
+[![GitHub Streak](https://github-readme-streak-stat-nine-zeta.vercel.app?user=DevSadit&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 
 
 <!-- About Me -->
