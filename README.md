@@ -18,14 +18,6 @@
 
 <br/>
 
-<!-- GitHub Streak -->
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<div align="center">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevSadit&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br/>
 
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
