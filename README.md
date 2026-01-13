@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-<h2 align="center">Github Streak</h2>
+<h2 align="center">Github Streak 💥</h2>
 </br>
 
 [![GitHub Streak](https://github-readme-streak-stat-nine-zeta.vercel.app?user=DevSadit&theme=dark&hide_border=true)](https://git.io/streak-stats)
